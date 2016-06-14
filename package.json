@@ -1,0 +1,33 @@
+{
+  "name": "array-spiral",
+  "version": "0.2.0",
+  "description": "Iterator for Array until ES2015, It will return element infinity",
+  "license": "MIT",
+  "repository": "ragingwind/array-spiral",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "Array",
+    "Loop",
+    "Functor",
+    "Iterator",
+    "IterArray"
+  ],
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "mocha": "*",
+    "xo": "^0.16.0"
+  }
+}
