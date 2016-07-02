@@ -24,7 +24,6 @@ test('should returns next items', t => {
 
 test('should returns next items even array has been changed', t => {
 	const arr = new ArraySpiral();
-
 	arr.push(0, 1, 2, 3, 4, 5);
 	const itr = arr.iterator;
 
@@ -48,7 +47,6 @@ test('should returns next items even array has been changed', t => {
 
 test('should returns prev items', t => {
 	const arr = new ArraySpiral();
-
 	arr.push(0, 1, 2, 3, 4, 5);
 	const itr = arr.iterator;
 
