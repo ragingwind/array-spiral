@@ -1,4 +1,4 @@
-# array-spiral
+# array-spiral [![Build Status](https://travis-ci.org/ragingwind/array-spiral.svg?branch=master)](https://travis-ci.org/ragingwind/array-spiral)
 
 > Extended Array with spiral iterator. (Migrated from [iterarry](https://github.com/ragingwind/iterarry))
 
