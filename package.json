@@ -1,6 +1,6 @@
 {
   "name": "array-spiral",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Iterator for Array until ES2015, It will return element infinity",
   "license": "MIT",
   "repository": "ragingwind/array-spiral",
